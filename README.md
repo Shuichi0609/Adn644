@@ -91,7 +91,6 @@
 <!-- Reliable stats via statscards.com -->
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adn644&theme=aura)
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adn644&theme=aura)
 </div>
 
 ## 🏆 Achievements
