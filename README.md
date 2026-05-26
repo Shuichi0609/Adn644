@@ -48,14 +48,6 @@
 * 🌐 [Website](https://privy-scan.vercel.app) · [GitHub](https://github.com/Adn644/PrivyScan)
 ---
 
-### 🛒 SmartCart — IoT-Based Retail Automation
-*React.js, Node.js, MongoDB, ESP8266, Load Cell, IoT*
-
-* Full-stack IoT-enabled smart billing system with real-time weight sensing, QR-based checkout & cloud-synced cart management
-* Architected the backend API and MongoDB data layer; integrated ESP8266 microcontroller with the web frontend for end-to-end automation
-* 🌐 [Website](https://io-t-based-smart-cart.vercel.app/) · [GitHub](https://github.com/AfifaSadiq/IoT_Based_Smart_Cart)
----
-
 ## ⚙️ Tech Stack
 
 ### 👩‍💻 Languages
