@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aishee Dutta</h1>
+<h1 align="center">Hi👋, I'm Aishee Dutta</h1>
 <h3 align="center">Data Analyst | AI/ML enthusiast | Building Real-World Projects | Open to Opportunities </h3>
 
 <p align="center">
